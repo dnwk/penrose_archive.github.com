@@ -18,9 +18,9 @@ published: true
 <p>The Whitman College and Northwest Archives curates materials that document the history of Whitman College and the Walla Walla region as well as rare books and other special collections housed in the Penrose Library. The archives collects, preserves, provides access to, and promotes the use of these materials for teaching, learning, and research.</p>
 <p>We welcome visitors! If you intend to do research, we request that you notify us in advance of your visit. It is also helpful if you share your topic and dates of interest with us since this information helps us be better prepared to assist you. We want your visit to the archives to be as efficient and productive as possible; thank you for your assistance in helping us serve you better.</p>
 
-<p>[ls_content_block id="115"]</p>
-Email: <a href="mailto:archives@whitman.edu">archives@whitman.edu</a><br/>
-<p>Doing research for your class? <a href="http://libguides.whitman.edu/profile.php?uid=68630">Here are Melissa Salrin's LibGuides.</a></p>
+<p>[ls_content_block id="115"]</p><p>
+Email: <a href="mailto:archives@whitman.edu">archives@whitman.edu</a></p>
+<p>Doing research for your class? <a href="http://libguides.whitman.edu/profile.php?uid=68630">Here are Archive's LibGuides.</a></p>
 <div class="col s12 m8 l12">
 <h5>Search Whitman College and Northwest Archives Finding Aids</h5>
 <form method="get" action="http://nwda-db.orbiscascade.org/nwda-search/results.aspx" target="_blank"><input type="text" name="q" id="searchValue"> &nbsp;&nbsp; <input type="submit" value="search" id="searchSubmit" class="btn"> <input type="hidden" value="k" name="t" id="t"> <input type="hidden" value="htm" name="c" id="c"></form>

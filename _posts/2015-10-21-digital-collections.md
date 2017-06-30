@@ -9,7 +9,7 @@ permalink: >
   https://library.whitman.edu/archives/digital-collections/
 published: true
 ---
-<p class="flow-text">The <a href="http://contentdm.whitman.edu/" target="_blank">Whitman College Digital Collections</a> provide access to digitized historical materials from the College Archives, the Northwest Manuscripts Collection, and other special collections in the Penrose Library.</p>
+<p class="flow-text">The <a href="http://arminda.whitman.edu/archives/" target="_blank">Whitman College Digital Collections</a> provide access to digitized historical materials from the College Archives, the Northwest Manuscripts Collection, and other special collections in the Penrose Library.</p>
 <div class="row">
 <div class="col s12 m8 l10">
 <h4><a href="http://arminda.whitman.edu/archives/" target="_blank"> Whitman College Digital Collections</a></h4>

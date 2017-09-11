@@ -56,4 +56,4 @@ Email: <a href="mailto:archives@whitman.edu">archives@whitman.edu</a></p>
 <div class="parallax-container parallax-large">
 <div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Wine_Image_7.jpg" alt="Image of Wine tasting"></div>
 </div>
-<a href="/js/init-archive.js">/js/init-archive.js</a>
+<script src="/js/init-archive.js"></script>

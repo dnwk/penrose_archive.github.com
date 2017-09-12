@@ -8,8 +8,8 @@ permalink: https://library.whitman.edu/archives/
 published: true
 post_date: 2015-09-16 04:24:25
 ---
-<div class="parallax-container parallax-small">
-<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Archive_Web.jpg" alt="Image of Whitman Mission"></div>
+<div class="parallax-container parallax-small" style="height:20em">
+<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Archive_Web.jpg" alt="Women's Basketball Team 1899"></div>
 <h1 style="color:#fff;position:absolute;bottom:1rem;right:1rem;">Whitman College <br/> Northwest Archives</h1>
 </div>
 <div class="section white">

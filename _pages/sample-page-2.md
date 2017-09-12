@@ -9,8 +9,8 @@ published: true
 post_date: 2015-09-16 04:24:25
 ---
 <div class="parallax-container parallax-small">
-<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Whitman_Mission.jpg" alt="Image of Whitman Mission"></div>
-<h1 style="color:#003D7D;position:absolute;bottom:1rem;right:1rem;">Whitman College <br/> Northwest Archives</h1>
+<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Archive_Web.jpg" alt="Image of Whitman Mission"></div>
+<h1 style="color:#fff;position:absolute;bottom:1rem;right:1rem;">Whitman College <br/> Northwest Archives</h1>
 </div>
 <div class="section white">
 <div class="row container">

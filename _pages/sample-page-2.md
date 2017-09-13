@@ -32,7 +32,7 @@ Email: <a href="mailto:archives@whitman.edu">archives@whitman.edu</a></p>
 </div>
 </div>
 <div class="parallax-container parallax-large">
-<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Wine_Image_7.jpg" alt="Image of Wine tasting"></div>
+<div class="parallax"><img src="/archives/wp-content/uploads/sites/2/2015/09/Archive_buttom.jpg" alt="Image of Wine tasting"></div>
 </div>
 <!--- JS Code --->
 [ls_content_block id="138" para="no-shortcodes"]

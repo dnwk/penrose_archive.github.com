@@ -23,7 +23,7 @@ Email: <a href="mailto:archives@whitman.edu">archives@whitman.edu</a></p>
 <p>Doing research for your class? <a href="http://libguides.whitman.edu/sb.php?subject_id=17587">Here are Archive's LibGuides.</a></p>
 <div class="col s12 m8 l12">
 <h5>Search Whitman College and Northwest Archives Finding Aids</h5>
-<form method="get" action="http://nwda-db.orbiscascade.org/nwda-search/results.aspx" target="_blank"><input type="text" name="q" id="searchValue"> &nbsp;&nbsp; <input type="submit" value="search" id="searchSubmit" class="btn"> <input type="hidden" value="k" name="t" id="t"> <input type="hidden" value="htm" name="c" id="c"></form>
+<form method="get" onsubmit="searcheventnwda();" action="https://nwda-db.orbiscascade.org/nwda-search/results.aspx" target="_blank"><input type="text" name="q" id="searchValue"> &nbsp;&nbsp; <input type="submit" value="search" id="searchSubmit" class="btn"> <input type="hidden" value="k" name="t" id="t"> <input type="hidden" value="htm" name="c" id="c"></form>
 </div>
 <div class="col s12 m8 l12"><!-- Search Box--->
 [ls_content_block id="137" para="no-shortcodes"]

@@ -1,13 +1,13 @@
 ---
 ID: 24
 post_title: Research Services
-author: link
-post_date: 2015-10-21 15:25:07
+author: Kun Lin
 post_excerpt: ""
 layout: post
 permalink: >
   https://library.whitman.edu/archives/research-services/
 published: true
+post_date: 2015-10-21 15:25:07
 ---
 <p>The Whitman College and Northwest Archives provides basic reference services during its regular hours. Consultations with archives staff may be scheduled during these or other times.</p>
 <p>Researchers are encouraged to contact the archives prior to a visit. The archives is open to the public and complies with the access guidelines of the Society of American Archivists. Users are required to follow standard access procedures and complete standard access forms during research visits.</p>
@@ -185,7 +185,7 @@ published: true
                 <p><a href="http://www.digitalarchives.wa.gov/Index.aspx">Washington State Digital Archives</a>: Digital full-text access to select public records, including birth, death, and census records.</p>
                 <p><a href="http://www.loc.gov/coll/nucmc/nucmc.html">National Union Catalog of Manuscript Collections (NUCMC)</a>: A database of catalog records for archival collections held by institutions throughout the United States.</p>
           <p><a href="http://memory.loc.gov/">American Memory</a>: A free, full text electronic archive of images, sounds and texts from 19th- and 20th- century America.</p>
-                <p><a href="http://webpages.uidaho.edu/special-collections/other.repositories.html">Repositories of Primary Source</a>:   A directory of web sites for archives and manuscript repositories   throughout the world. An excellent place to find contact information for   archives and archivists in any region you are studying.</p>
+                <p><a href="https://beta.worldcat.org/archivegrid/">ArchiveGrid</a>:   ArchiveGrid includes over 5 million records describing archival materials, bringing together information about historical documents, personal papers, family histories, and more. With over 1,000 different archival institutions represented, ArchiveGrid helps researchers looking for primary source materials held in archives, libraries, museums and historical societies.</p>
                 <h5 id="#walla-walla-history-links">Walla Walla History Links</h5>
                   <p><a href="http://epay.ci.walla-walla.wa.us:8800/lfportal/">City of Walla Walla Online Records</a></p>
                   <p><a href="http://www.fwwm.org">Fort Walla Walla Museum</a></p>

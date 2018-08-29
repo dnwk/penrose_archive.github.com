@@ -1,16 +1,16 @@
 ---
 ID: 19
 post_title: Collection Guides
-author: link
-post_date: 2015-10-21 15:21:00
+author: Kun Lin
 post_excerpt: ""
 layout: post
 permalink: >
   https://library.whitman.edu/archives/collection-guides/
 published: true
+post_date: 2015-10-21 15:21:00
 ---
 <p><em>This is only a partial listing of the archival and manuscript   collections held by the Whitman College and Northwest Archives.  New   guides are added to this page regularly.</em></p>
-<p><strong><a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a></strong></p>
+<p><strong><a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="https://library.whitman.edu/archives/collection-guides/#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a></strong></p>
 <h3><a name="A"></a>A</h3>
 <p><a href="https://nwda-db.orbiscascade.org/findaid/ark:/80444/xv31225">Guide to the 150th Anniversary Symposium of the Whitman Massacre Collection 1997:</a> Program, news clippings, notes, papers, photo album, three part video series.</p>
 <p><a href="https://nwda-db.orbiscascade.org/findaid/ark:/80444/xv12115">Guide to the 158 Club Records:</a> Seattle Linebackers, Bill Berney's records, membership, correspondence of the 158 Club.</p>
